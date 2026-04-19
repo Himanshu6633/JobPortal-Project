@@ -1,0 +1,11 @@
+i) shadcn ui with vite
+
+ii) installation
+npm i react-router-dom
+npm i axios
+npm install @reduxjs/toolkit
+npm install react-redux
+npx shadcn@latest add label
+npx shadcn@latest add button
+npx shadcn@latest add radio-group
+npx shadcn@latest add sonner
